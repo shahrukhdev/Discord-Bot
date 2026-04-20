@@ -1,0 +1,14 @@
+{
+  "wolfpack_bp": {
+    "label": "Wolfpack BP",
+    "image": "wolfpack_bp.png"
+  },
+  "anvil_iv": {
+    "label": "Anvil IV",
+    "image": "anvil_iv.png"
+  },
+  "processors": {
+    "label": "Processors",
+    "image": "processors.png"
+  }
+}
